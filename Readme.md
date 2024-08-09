@@ -21,11 +21,11 @@ npm install
 npx playwright test 
 ```
 
-3. Executar ver o relatório dos testes
+3. Exibir o relatório dos testes
 ```
 npx playwright show-report
 ```
 
 <hr>
-Curso disponível em https://qaxperience.com
+Curso disponível em https://www.udemy.com/course/testes-continuos-em-playwright-no-github-actions/
 
